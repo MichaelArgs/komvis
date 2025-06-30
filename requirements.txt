@@ -1,12 +1,5 @@
-altair
-boto3
-ccxt
-google
-gspread
-pandas
-regex
-requests
-s3fs
 streamlit
-protobuf==3.20.0
 tensorflow
+numpy
+matplotlib
+pillow
