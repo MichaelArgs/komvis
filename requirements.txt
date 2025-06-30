@@ -1,5 +1,6 @@
+tensorflow==2.8.0
 matplotlib==3.10.3
-numpy==2.3.1
-Pillow==11.2.1
+numpy==1.21.6  # Ensure this is the right version for Python 3.9
+Pillow==8.4.0  # Make sure Pillow version is compatible
 streamlit==1.39.0
-tensorflow==2.11.0
+rich==14.0.0
