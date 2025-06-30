@@ -9,3 +9,4 @@ requests
 s3fs
 streamlit
 protobuf==3.20.0
+tensorflow
